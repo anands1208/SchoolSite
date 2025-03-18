@@ -4464,3 +4464,18 @@ body.tg-commingsoonpage .tg-main{padding:0;}
 .gallery img:hover {
     transform: scale(1.05);
 }
+
+
+.ff-el-form-check label.ff-el-form-check-label {
+    cursor: pointer;
+    margin-bottom: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+input.ff-el-form-check-input {
+    margin: 0;
+}
+.tg-formcontactus .form-control:focus{
+	box-shadow: none;
+}
